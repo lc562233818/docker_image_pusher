@@ -1,8 +1,1 @@
-gitlab/gitlab-ce:16.5.1-ce.0
-grafana/grafana:10.2.0
-jenkins/jenkins:2.426.1-lts-jdk17
-eipwork/kuboard:v3.5.2.5
-prom/prometheus:v2.47.2
-postgres:15.4
-busybox:1.36
-sonarqube:10.2.1-community
+prom/node-exporter:v1.7.0
